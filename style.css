@@ -4,3 +4,23 @@ body{
 h1{
     font-size: 50px;
 }
+span{
+    color: orangered;
+}
+.about-nihal{
+    display: flex;
+    margin-left: 10px;
+    padding-right: 20%;
+}
+.introduction img{
+width: 185%;
+padding-right: 10px;
+}
+a{
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-weight: 600;
+    color: white;
+}
